@@ -1,0 +1,24 @@
+body{
+    background-image: url("https://wallpapers.com/images/featured/color-iphone-jievzchzy3ihyydm.jpg"); 
+    background-repeat: no-repeat; 
+    background-size: 100%;
+}
+h1{
+    font-style:initial;
+
+}
+button{
+    background-color:rgb(181, 244, 240);
+    height: 30px;
+    width: 30px;
+    border-radius: 30px;
+ }
+ #result{
+    background-color:rgb(240, 224, 240);
+ }
+ button:hover{
+              background-color: rgb(230, 132, 188);
+ }
+ h1{
+    color:goldenrod;
+ }
